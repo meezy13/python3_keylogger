@@ -19,7 +19,7 @@ python3 keylogger.py&
 
 I've added **&** in the final to release the terminal while the program is running.
 
-##### Example
+#### Example:
 ![plot](./example.png)
 
 It creates an output file named **keylogs.txt** in the running directory:
