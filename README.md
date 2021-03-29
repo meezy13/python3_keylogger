@@ -26,7 +26,9 @@ It creates an output file named **keylogs.txt** in the running directory:
 
 ![plot](./files.png)
 
+
 Print the output:
+
 ![plot](./print.png)
 
 
