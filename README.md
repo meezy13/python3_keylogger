@@ -23,6 +23,7 @@ I've added **&** in the final to release the terminal while the program is runni
 ![plot](./example.png)
 
 It creates an output file named **keylogs.txt** in the running directory:
+
 ![plot](./files.png)
 
 Print the output:
